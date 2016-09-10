@@ -1,0 +1,9 @@
+#############################
+#
+# How to get this running...
+#
+#############################
+
+1. Download and install npm with node.js (from https://nodejs.org/en/)
+
+2. Run "npm start" from command line (from within this directory) and maybe, if needed run "npm install" first in case "npm start" fails.
